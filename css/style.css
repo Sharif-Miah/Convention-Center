@@ -1,0 +1,14 @@
+.alert {}
+
+.right-item {}
+
+
+
+.alert {
+    margin-bottom: 0;
+}
+
+.alert p {
+    margin-bottom: 0;
+    z-index: 1;
+}
