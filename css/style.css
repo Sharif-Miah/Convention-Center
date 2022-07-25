@@ -12,3 +12,45 @@
     margin-bottom: 0;
     z-index: 1;
 }
+
+.fa-check {
+    color: #6254c7;
+    margin-right: 5px;
+}
+
+.chose-btn {
+    background-color: #fdf4fa;
+    color: #3f87f5;
+    border-radius: 25px;
+}
+
+.wedding-plus .hot {
+    margin-top: -30px;
+}
+
+.wedding-plus .hot span {
+    background-color: #ff4e4e;
+    padding: 6px 6px;
+    border-radius: 40%;
+    font-size: 12px;
+    margin-left: 190px;
+
+}
+
+.wedding-plus {
+    background-color: #3f87f5;
+    color: #fff;
+    padding: 20px 10px 30px 10px;
+    border-radius: 10px;
+}
+
+.wedding-plus .fa-check {
+    color: #fff;
+}
+
+ul li {
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
